@@ -19,12 +19,12 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![C#]([https://img.shields.io/badge/-C#-05122A?style=flat&logo=CSharp&logoColor=339933])&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PhpStorm](https://img.shields.io/badge/-phpstorm-05122A?style=flat&logo=phpstorm)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![C#](https://img.shields.io/badge/CSharp-05122A?logo=CSharp&logoColor=green)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity%20-05122A?style=flat&logo=Unity)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion%20-05122A?style=flat&logo=Notion)&nbsp;
 # 📊 GitHub Stats:
