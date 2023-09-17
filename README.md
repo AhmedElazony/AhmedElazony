@@ -14,7 +14,18 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
+![C#]([https://img.shields.io/badge/-C#-05122A?style=flat&logo=CSharp&logoColor=339933])&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PhpStorm](https://img.shields.io/badge/-phpstorm-05122A?style=flat&logo=phpstorm)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity%20-05122A?style=flat&logo=Unity)&nbsp;
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElazony&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
