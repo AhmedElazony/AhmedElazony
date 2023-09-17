@@ -26,6 +26,7 @@
 ![PhpStorm](https://img.shields.io/badge/-phpstorm-05122A?style=flat&logo=phpstorm)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity%20-05122A?style=flat&logo=Unity)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion%20-05122A?style=flat&logo=Notion)&nbsp;
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElazony&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
