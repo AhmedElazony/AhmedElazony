@@ -3,10 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🏢 I'm a Software Engineer.
+- 🏢 A Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, C#, and more.
-- ⚡ Fun Fact: I'm a Poem And Literature enthusiast.
+- ⚡ Fun Fact: I'm a Poetry And Literature enthusiast.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.elazony19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedelazony) [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/ahmedelazony10)
