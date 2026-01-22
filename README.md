@@ -15,7 +15,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahmedelazony)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.elazony19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedelazony) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmedelazony5952) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -35,9 +35,8 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedElazony&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="AhmedElazony" /></p>
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElazony&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="AhmedElazony" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
