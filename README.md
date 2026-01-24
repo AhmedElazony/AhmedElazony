@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-* 🔭 I’m currently working at **zinad**.
+* 🔭 I’m currently working at **Zinad**.
 * 👯 I’m looking to collaborate on **linux kernel**.
 * 🌱 I’m currently learning **Backend, OS, Security, and more**.
 * 💬 Ask me about Backend with **PHP, and Laravel, C#, unity, and Linux**.
