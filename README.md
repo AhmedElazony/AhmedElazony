@@ -36,8 +36,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedElazony&theme=dark&hide_border=false&include_private=true" alt="AhmedElazony" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElazony&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="AhmedElazony" /></p>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api?username=AhmedElazony&theme=dark&hide_border=false&include_private=true" alt="AhmedElazony" /></p>
+<p><img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmedElazony&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="AhmedElazony" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
