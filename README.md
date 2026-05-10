@@ -3,12 +3,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> -->
 
-## 💫 About Me:
+## About Me:
 
-* 🔭 I’m currently working from home.
-* 👯 I’m looking to collaborate on **linux kernel**.
-* 🌱 I’m currently learning **Backend, OS, Security, and more**.
-* 💬 Ask me about Backend with **PHP, and Laravel, C#, unity, and Linux**.
+* I’m currently working from home.
+* I’m looking to collaborate on **linux kernel**.
+* I’m currently learning **Backend, OS, Security, and more**.
+* Ask me about Backend with **PHP, and Laravel, C#, unity, and Linux**.
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
